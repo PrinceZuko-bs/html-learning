@@ -7,7 +7,12 @@ body{
 h1{
   color: rgb(255, 255, 255);
   background-color: rgb(86, 137, 204);
-  padding: 16px
+  border: 2px solid black;
+  border-color: rgb(86, 137, 204);
+  padding: 20px;
+  border-radius: 9px;
+  width: 240px;
+
 
 }
 
@@ -21,4 +26,22 @@ div.links{
 
 div.footer{
   text-align: center;
+
+}
+
+iframe{
+  border: 5px solid rgb(86, 137, 204);
+  border-radius: 9px;
+}
+
+div.testing{
+  color: rgb(255, 255, 255);
+  background-color: rgb(86, 137, 204);
+  border: 2px solid black;
+  border-color: rgb(86, 137, 204);
+  padding: 20px;
+  border-radius: 9px;
+  width: 30px;
+  text-align: center;
+
 }
