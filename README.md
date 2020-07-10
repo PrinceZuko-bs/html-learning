@@ -1,5 +1,5 @@
 # html-learning
-Self-Taught HTML over the 2020 summer
+Self-Taught HTML and CSS over the 2020 summer
 
 Goals:
   
