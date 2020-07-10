@@ -1,9 +1,24 @@
 body{
   font-family: arial;
+  padding: 10px;
 
 }
 
 h1{
   color: rgb(255, 255, 255);
-  background-color: #367574;
+  background-color: rgb(86, 137, 204);
+  padding: 16px
+
+}
+
+p{
+  font-family: sans-serif;
+}
+
+div.links{
+  text-align: center;
+}
+
+div.footer{
+  text-align: center;
 }
