@@ -49,3 +49,9 @@ div.testing{
 ol{
   list-style-type: disc;
 }
+
+.rat1, .rat2, .rat3, .rat4{
+  width: 325px;
+  float: left;
+  margin: auto;
+}
